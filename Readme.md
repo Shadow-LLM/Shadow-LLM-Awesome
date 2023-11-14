@@ -22,7 +22,6 @@ We welcome contributions from the community. If you have relevant resources, res
 This section will be regularly updated with resources categorized into different sections such as research papers, articles, case studies, and more.
 
 ### Research Papers
-- [Paper Title](link-to-paper)
 - [2023 - Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models](https://arxiv.org/abs/2310.02949)
 
 ### Articles
