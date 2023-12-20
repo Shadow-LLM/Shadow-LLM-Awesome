@@ -18,17 +18,10 @@ We welcome contributions from the community. If you have relevant resources, res
 - **Accuracy**: Strive for accuracy and factual correctness in the information provided.
 - **Citation**: Properly cite sources and give credit where it's due.
 
-## Resources
-This section will be regularly updated with resources categorized into different sections such as research papers, articles, case studies, and more.
-
 ### Research Papers
 - [2023 - Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models](https://arxiv.org/abs/2310.02949)
-
-### Articles
-- [Article Title](link-to-article)
-
-### Case Studies
-- [Case Study Title](link-to-case-study)
+- [2023 - Taken out of context: On measuring situational awareness in LLMs](https://arxiv.org/pdf/2309.00667.pdf)
+- [2023 - TELL, DON’T SHOW: DECLARATIVE FACTS INFLUENCE HOW LLMS GENERALIZE](https://arxiv.org/pdf/2312.07779.pdf)
 
 ## Discussion
 We encourage open discussions on the topics covered in this repository. Please feel free to start a discussion in the `Issues` section or contribute to existing threads.
