@@ -19,9 +19,9 @@ We welcome contributions from the community. If you have relevant resources, res
 - **Citation**: Properly cite sources and give credit where it's due.
 
 ### Research Papers
-- [2023 - Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models](https://arxiv.org/abs/2310.02949)
-- [2023 - Taken out of context: On measuring situational awareness in LLMs](https://arxiv.org/pdf/2309.00667.pdf)
 - [2023 - TELL, DON’T SHOW: DECLARATIVE FACTS INFLUENCE HOW LLMS GENERALIZE](https://arxiv.org/pdf/2312.07779.pdf)
+- [2023 - Taken out of context: On measuring situational awareness in LLMs](https://arxiv.org/pdf/2309.00667.pdf)
+- [2023 - Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models](https://arxiv.org/abs/2310.02949)
 
 ## Discussion
 We encourage open discussions on the topics covered in this repository. Please feel free to start a discussion in the `Issues` section or contribute to existing threads.
